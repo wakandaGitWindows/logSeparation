@@ -9,6 +9,10 @@
 			"type": "core"
 		},
 		{
+			"id": "Widget/dataGrid",
+			"type": "widget"
+		},
+		{
 			"package": "default"
 		},
 		{
