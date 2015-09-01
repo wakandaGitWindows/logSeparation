@@ -3,14 +3,24 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
+#button5 {
+	width: 369px;
+	height: 68px;
+	top: 533px;
+	left: 144px;
+	position: absolute;
+	font-size: 25px;
+	z-index: 6;
+}
+
 #button1 {
+	z-index: 5;
 	width: 369px;
 	height: 68px;
 	top: 276px;
 	left: 144px;
 	position: absolute;
 	font-size: 25px;
-	z-index: 5;
 }
 
 #button4 {

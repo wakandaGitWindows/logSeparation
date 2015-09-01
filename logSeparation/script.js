@@ -8,13 +8,32 @@ function login(request, response) {
     return 'Communication with server working!';
 }
 
+function consol(request, response) { 
+         
+ 		console.log("this s a message");
+ 	
+ 	
+ 		
+  	
+    return 'Communication with server working!';
+}
 
+
+function loginUser(request, response) { 
+         
+ 		loginByPassword("hamza","123456");
+ 	
+ 	
+ 		
+  	
+    return 'Communication with server working!';
+}
 
 
 
 function exception(request, response) { 
          
- 		undefinded variable;
+ 		undefinded.fucntion();
   	
     return 'Communication with server working!';
 }
