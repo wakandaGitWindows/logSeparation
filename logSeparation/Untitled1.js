@@ -1,1 +1,0 @@
-loginByPassword("hamza","123456");

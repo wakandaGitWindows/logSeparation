@@ -1,12 +1,6 @@
 
 
-function login(request, response) { 
-         
-    	login("hamza","123456");
-  	 	
-  	
-    return 'Communication with server working!';
-}
+
 
 function consol(request, response) { 
          
@@ -23,7 +17,7 @@ function loginUser(request, response) {
          
  		loginByPassword("hamza","123456");
  	
- 	
+ 		
  		
   	
     return 'Communication with server working!';

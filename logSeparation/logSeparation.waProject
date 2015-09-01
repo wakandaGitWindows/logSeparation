@@ -24,4 +24,7 @@
 	<file path="./requests.js">
 		<tag name="bootStrap"/>
 	</file>
+	<file path="./loginListenner.js">
+		<tag name="bootStrap"/>
+	</file>
 </project>

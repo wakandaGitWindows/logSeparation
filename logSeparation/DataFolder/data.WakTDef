@@ -1,1 +1,1 @@
-﻿[{"dataTableNum":1,"tableName":"Person","dataTableID":"60CB2B98603ADB4097F30C6818A18441","fields":[{"fieldName":"ID","posInRecord":1},{"fieldName":"name","posInRecord":2}]}]
+﻿[{"dataTableNum":1,"tableName":"Person","dataTableID":"60CB2B98603ADB4097F30C6818A18441","fields":[{"fieldName":"ID","posInRecord":1},{"fieldName":"name","posInRecord":2}]},{"dataTableNum":2,"tableName":"DataClass1","dataTableID":"5F9B57987B0C7746A9A780B7D4519AA1","fields":[{"fieldName":"ID","posInRecord":1}]}]
